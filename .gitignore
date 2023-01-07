@@ -1,0 +1,10 @@
+.*
+*.iml
+application-environment-specific.*
+application-customer-specific.*
+application-dev.*
+target/
+logs/
+!/.gitignore
+node_modules/
+webpack.generated.js

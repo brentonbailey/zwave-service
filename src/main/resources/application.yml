@@ -1,0 +1,10 @@
+server:
+  port: 8082
+  servlet:
+    context-path: /zwave
+  
+    
+logging:
+  level:
+    root: INFO
+    
